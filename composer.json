@@ -1,0 +1,9 @@
+{
+    "name": "ankit/design-patterns",
+    "autoload": {
+        "psr-4": {
+            "Ankit\\DesignPatterns\\": "src/"
+        }
+    },
+    "require": {}
+}
